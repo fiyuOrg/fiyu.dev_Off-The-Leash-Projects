@@ -1,0 +1,116 @@
+.mainh1 {
+    text-align: center;
+}
+
+.body {
+    
+    border: solid; /* For me to visualize, will be deleted.*/
+    border-width: 2px; /* For me to visualize, will be deleted.*/
+    border-color: black; /* For me to visualize, will be deleted.*/
+    width: 100%; 
+}
+
+/* Color's Page CSS */
+
+.colorsPage {
+    text-align: center;
+    border: solid; /* For me to visualize, will be deleted.*/
+    border-width: 1px; /* For me to visualize, will be deleted.*/
+    border-color: black; /* For me to visualize, will be deleted.*/
+    width: 90%;
+    margin: auto;
+    padding: 0px 0px 20px 0px;
+}
+
+#colorh2 {
+    text-align: center;
+}
+
+.color1, .color2, .color3{
+    border: solid; /* For me to visualize, will be deleted.*/
+    border-width: 1px; /* For me to visualize, will be deleted.*/
+    border-color: black; /* For me to visualize, will be deleted.*/
+    display: inline-block;
+    width: 24%;
+    height: 250px;
+    vertical-align: top; /* This solves the content's automatic baseline problem solved from stackoverflow.*/
+}
+
+.color1 {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.colorbox1 {
+    border: solid; /* For me to visualize, will be deleted.*/
+    border-width: 1px; /* For me to visualize, will be deleted.*/
+    border-color: black; /* For me to visualize, will be deleted.*/
+    width: 50%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:aquamarine;
+}
+
+.color2{
+ 
+}
+
+.color3{
+    margin-left: 6%;
+    margin-right: 6%;
+    
+}
+
+/* Fonts Page CSS */
+
+.fontsPage {
+    border: solid; /* For me to visualize, will be deleted.*/
+    border-width: 1px; /* For me to visualize, will be deleted.*/
+    border-color: black; /* For me to visualize, will be deleted.*/
+    width: 90%;
+    margin: auto;
+    padding: 0px 0px 20px 0px;
+}
+
+#fonth2 {
+    text-align: center;
+}
+
+.font1, .font2, .font3{ 
+    display: inline-block;
+    width: 25%;
+    height: 250px;
+    vertical-align: top;
+}
+
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.robotoBold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.robotoUnderlined{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+}
+
+.font1 {
+    margin-left: 6%;
+    margin-right: 6%;
+    background-color: aqua;
+}
+
+.font2{
+    background-color: rgb(1, 0, 0);
+}
+
+.font3{
+    margin-left: 6%;
+    margin-right: 6%;
+    background-color: blue;
+}
